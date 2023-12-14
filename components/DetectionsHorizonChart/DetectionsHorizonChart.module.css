@@ -1,0 +1,34 @@
+.loading .chart-content {
+    display: none;
+}
+
+.loading .Loader {
+    display: block;
+}
+
+.chart-content {
+    display: block;
+    color: black
+}
+
+.Loader {
+    display: none;
+}
+
+.datePicker {
+    margin: auto;
+    max-width: 400px;
+}
+
+.multiSelect {
+    margin: auto;
+    max-width: 400px;
+}
+
+.slider {
+    width: '40%';
+}
+
+.button {
+    width: '15%';
+}
